@@ -6,6 +6,7 @@ const navItems = [
   { href: "/education", label: "Education" },
   { href: "/resume", label: "Resume" },
   { href: "/contact", label: "Contact" },
+  { href: "/games", label: "Games" },
 ];
 
 export function Navbar() {
